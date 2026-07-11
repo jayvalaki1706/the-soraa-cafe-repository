@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "The Soraa Cafe"
+version = "1.0.0"
+id = "artifacts/soraa-cafe"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21572
+
+[services.development]
+run = "pnpm --filter @workspace/soraa-cafe run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/soraa-cafe", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/soraa-cafe/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21572"
+BASE_PATH = "/"
