@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/a3b8a53e-d6e4-481a-961c-9ebe2242c8e1" /># ☕ The Soraa Cafe
+# ☕ The Soraa Cafe
 
 A full-stack cafe website for **The Soraa Cafe**, Nikol, Ahmedabad. Built with React + Vite on the frontend, Express 5 on the backend, PostgreSQL for the database, and an OpenAPI-driven contract between them.
 
@@ -254,7 +254,6 @@ lib/db/src/schema/
 <img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/dfa94f69-fa3f-47c8-9020-a7d8edc829b5" />
 <img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/7d03535e-f47a-4115-94ec-ff754e608bfc" />
 <img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/8743f2fe-d92a-4186-a1f9-3b748c3283a5" />
-<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/b4e13233-31be-4d08-b590-3bbe0378f22f" />
 <img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/17650e85-c342-4067-a1e4-6df113fa71fd" />
 <img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/1b682d3f-83a3-4142-ac10-526c5c8428bd" />
 <img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/b61ca54a-1a22-4462-a5d0-418b0d6552b5" />
